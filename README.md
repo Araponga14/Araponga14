@@ -1,6 +1,6 @@
 # Hello, I'm Vinicius Silveira 👨‍💻  
 
-🎓 Full-Stack Developer | Computer Science @ UFAM  
+🎓 Full-Stack Developer | Aripuanense 🇧🇷 | Computer Science @ UFAM  
 ⚡ Studying at Full Stack WebAcademy - IComp/Motorola  
 🎸 Guitarist | 👾 Tetrist  
 
