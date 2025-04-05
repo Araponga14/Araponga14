@@ -43,6 +43,14 @@
 
 ## 🌐 Social  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinicius-silveira-8079392b6)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Araponga14)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinicius_silveira_vinicius/)
+<a href="https://www.linkedin.com/in/vinicius-silveira-8079392b6" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none;">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://github.com/Araponga14" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none;">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://www.instagram.com/vinicius_silveira_vinicius/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none;">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
