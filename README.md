@@ -2,7 +2,7 @@
 
 🎓 Full-Stack Developer | Aripuanense 🇧🇷 | Computer Science @ UFAM  
 ⚡ Studying at Full Stack WebAcademy - IComp/Motorola  
-🎶 Classical Guitar | 👾 TETR.IO  
+🎶 Classical Guitar | 👾 TETR.IO #80 Tetra League
 
 
 ## 🛠️ Tech Stack  
