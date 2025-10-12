@@ -1,0 +1,41 @@
+name: Atualizar classificação TETR.IO
+
+on:
+  schedule:
+    - cron: "0 12 * * 0"
+  workflow_dispatch: 
+
+jobs:
+  update-rank:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: clone repository
+        uses: actions/checkout@v4
+
+      - name: install deps
+        run: sudo apt-get install -y jq curl
+
+      - name: search my country rank in TETR.IO
+        id: get_rank
+        run: |
+          USERNAME="ARAPONGA"
+          API_URL="https://ch.tetr.io/api/users/$USERNAME/summaries/league"
+          
+          response=$(curl -s "$API_URL")
+          country_rank=$(echo "$response" | jq -r '.data.standing_local')
+          
+          echo "Classificação nacional: $country_rank"
+          echo "rank=$country_rank" >> $GITHUB_ENV
+
+      - name: update README.md
+        run: |
+          sed -i -E "s/#([0-9]+)/#${rank}/" README.md
+
+      - name: commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Atualiza classificação nacional TETR.IO para #${rank}" || echo "Nenhuma mudança"
+          git push
