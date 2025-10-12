@@ -1,8 +1,8 @@
 # Hello, I'm Vinicius Silveira 👨‍💻  
 
-🎓 Full-Stack Developer | Aripuanense 🇧🇷 | Computer Science @ UFAM  
-⚡ Studying at Full Stack WebAcademy - IComp/Motorola  
-🎶 Classical Guitar | 👾 TETR.IO #39 Tetra League
+🎓 Full-Stack Developer from Brazil | BSc in Computer Science @ Federal University of Amazonas
+⚡ Currently studying in the WebAcademy Full-Stack Course – IComp / Motorola
+🎶 Classical Guitar | 👾🇧🇷 Country Rank #39 – TETR.IO Tetra League
 
 
 ## 🛠️ Tech Stack  
