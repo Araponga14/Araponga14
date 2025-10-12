@@ -28,7 +28,7 @@ jobs:
           else
             echo "Standing Local extracted: $STANDING_LOCAL_VALUE"
             
-            sed -i -E "s/#([0-9]+)/#${rank}/" README.md
+            sed -i -E "s/#([0-9]+)/#${STANDING_LOCAL_VALUE}/" README.md
           fi
 
       - name: Commit changes
