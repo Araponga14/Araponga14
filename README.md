@@ -3,7 +3,7 @@
 🎓 Full-Stack Developer from Brazil | BSc in Computer Science @ Federal University of Amazonas </br>
 ⚡ Currently studying in the WebAcademy Full-Stack Program – IComp / Motorola </br>
 👨‍💼 Working with Test Development & Automation @ Sidia Development & Research Institute </br>
-🎶 Classical Guitar enthusiast | 👾🇧🇷 TETR.IO Tetra League – Country Rank #39
+🎶 Classical Guitar enthusiast | 👾🇧🇷 TETR.IO Tetra League – Country Rank #41
 
 
 ## 🛠️ Tech Stack  
