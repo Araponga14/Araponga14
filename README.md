@@ -1,9 +1,10 @@
 # Hello, I'm Vinicius Silveira 👨‍💻  
 
-🎓 Full-Stack Developer from Brazil | BSc in Computer Science @ Federal University of Amazonas </br>
-⚡ Currently studying in the WebAcademy Full-Stack Program – IComp / Motorola </br>
-👨‍💼 Working with Test Development & Automation @ Sidia Development & Research Institute </br>
-🎶 Classical Guitar enthusiast | 👾🇧🇷 TETR.IO Tetra League – Country Rank #-1
+🎓 Full-Stack Developer from Brazil | BSc Student in Computer Science @ Federal University of Amazonas <br />
+⚡ Certified by WebAcademy Full-Stack Program – IComp / Motorola <br />
+💻 Currently studying at Denken Development Capacitation – Cyberlabs UEA <br />
+👨‍💼 Working with Test Development & Automation @ Sidia Development & Research Institute <br />
+🎶 Classical Guitar enthusiast | 👾 TETR.IO Tetra League Player
 
 
 ## 🛠️ Tech Stack  
@@ -21,15 +22,17 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Database & ORMs  
   
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 
 ### Tools & OS  
@@ -37,7 +40,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-![Linux](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## 📈 GitHub Stats  
 
